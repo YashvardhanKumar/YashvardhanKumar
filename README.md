@@ -1,7 +1,7 @@
 # Hi there, 👋
 
 ## This is Yashvardhan Kumar
-
+### A sophomore at IIITM Gwalior
 <!--
 **YashvardhanKumar/YashvardhanKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Mini Project related to Machine Learning
 - 🌱 I’m currently learning Machine Learning, React,Redux, GraphQL, Hooks and React Native
 
 ### 📫 How to reach me
