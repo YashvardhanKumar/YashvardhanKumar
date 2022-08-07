@@ -29,11 +29,18 @@ Here are some ideas to get you started:
 ---
 # Things I Know
 ___
-
-<a href="https://www.flutter.dev" rel="nofollow">
+<a href="https://dart.dev" rel="nofollow">
+    <img
+    src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png"
+    alt="dart"
+    width="40"
+    height="40"
+    style="max-width: 100%"
+    />
+</a><a href="https://flutter.dev" rel="nofollow">
     <img
     src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"
-    alt="css3"
+    alt="flutter3"
     width="40"
     height="40"
     style="max-width: 100%"
