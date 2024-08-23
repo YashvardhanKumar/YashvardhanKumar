@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashvardhan Kumar</h1>
-<h3 align="center">I specialize in developing mobile and web applications using cutting-edge technologies like Flutter, ReactJS, NodeJS, and various backend tools like Firebase and MongoDB.</h3>
+<h3 align="center">I specialize in developing mobile and web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvardhankumar&label=Profile%20views&color=0e75b6&style=flat" alt="yashvardhankumar" /> </p>
 
