@@ -1,7 +1,7 @@
 # Hi there, 👋
 
 ## This is Yashvardhan Kumar
-### A Pre final Year student at IIITM Gwalior
+### A final Year student at IIITM Gwalior
 <!--
 **YashvardhanKumar/YashvardhanKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
